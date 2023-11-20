@@ -1,1 +1,1 @@
-# distill-whisper-sg
+# distil-whisper-sg
